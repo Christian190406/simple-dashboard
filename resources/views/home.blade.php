@@ -59,7 +59,7 @@
 </div>
 
 <footer class="text-center text-muted py-3">
-    &copy; {{ date('Y') }} Simple Dashboard Mahasiswa
+    &copy; {{ date('Y') }} SIA ATMI
 </footer>
 
 </body>
